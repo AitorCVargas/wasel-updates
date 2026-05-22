@@ -1,15 +1,15 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "notes": "Instala `Wasel Panel_*_x64-setup.exe` en la PC del local.",
-  "pub_date": "2026-05-22T04:39:58.610Z",
+  "pub_date": "2026-05-22T04:48:57.582Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRY2I4MjN3UjhmbUdzM2t3UkdQMjhFZ3F0TElGaDZ0OTdrVGtwYkVjY0RMOWllcXovQ2IxMmQ3UzhVL0dYSVhGcHNzRGVNUUxYUThrWDR5bzk4Nm1tOHQrMGM1S2dpVEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDI0Nzk2CWZpbGU6V2FzZWwgUGFuZWxfMS4wLjFfeDY0LXNldHVwLmV4ZQoxRjdsbzZrNkU1TUI0U0xQdnZsZkNKZlZOQ2F1MWcxMjJ0MkVFUjkwdTR4bW5hZldtb0JuYk8yUjJ1Y3FZZWo1WHZUWkdxcXBLRlgySlkzM2h2Tk9EZz09Cg==",
-      "url": "https://github.com/AitorCVargas/wasel/releases/download/panel-v1.0.1/Wasel.Panel_1.0.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRY2I4MjN3UjhmbUFBR2wra0daRWExZmFMWkxVcy9PTERVS2tXNEFaL25DNjRZMjNXbFZoQVdLbmp0RVVBTmlDNnlQdWFqSVlHajR4ZVdta2FTblJPWkdjeHcrb0p3d2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDI1MzM1CWZpbGU6V2FzZWwgUGFuZWxfMS4wLjJfeDY0LXNldHVwLmV4ZQp1MkhBMG1YYTVoMytDWVhicGprVzJ0Z281bnNHdXorLy9IZ1o1M2hoRy8vYjc4SHlMRnNzTlV2cGVPUGZHNFJKV0hneVk3M2xORWdxMFgxSGFvZzBEdz09Cg==",
+      "url": "https://github.com/AitorCVargas/wasel/releases/download/panel-v1.0.2/Wasel.Panel_1.0.2_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRY2I4MjN3UjhmbUdzM2t3UkdQMjhFZ3F0TElGaDZ0OTdrVGtwYkVjY0RMOWllcXovQ2IxMmQ3UzhVL0dYSVhGcHNzRGVNUUxYUThrWDR5bzk4Nm1tOHQrMGM1S2dpVEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDI0Nzk2CWZpbGU6V2FzZWwgUGFuZWxfMS4wLjFfeDY0LXNldHVwLmV4ZQoxRjdsbzZrNkU1TUI0U0xQdnZsZkNKZlZOQ2F1MWcxMjJ0MkVFUjkwdTR4bW5hZldtb0JuYk8yUjJ1Y3FZZWo1WHZUWkdxcXBLRlgySlkzM2h2Tk9EZz09Cg==",
-      "url": "https://github.com/AitorCVargas/wasel/releases/download/panel-v1.0.1/Wasel.Panel_1.0.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRY2I4MjN3UjhmbUFBR2wra0daRWExZmFMWkxVcy9PTERVS2tXNEFaL25DNjRZMjNXbFZoQVdLbmp0RVVBTmlDNnlQdWFqSVlHajR4ZVdta2FTblJPWkdjeHcrb0p3d2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDI1MzM1CWZpbGU6V2FzZWwgUGFuZWxfMS4wLjJfeDY0LXNldHVwLmV4ZQp1MkhBMG1YYTVoMytDWVhicGprVzJ0Z281bnNHdXorLy9IZ1o1M2hoRy8vYjc4SHlMRnNzTlV2cGVPUGZHNFJKV0hneVk3M2xORWdxMFgxSGFvZzBEdz09Cg==",
+      "url": "https://github.com/AitorCVargas/wasel/releases/download/panel-v1.0.2/Wasel.Panel_1.0.2_x64-setup.exe"
     }
   }
 }
